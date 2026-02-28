@@ -8,14 +8,12 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 📺 Project Demo
+## 📸 Project Screenshot
 
-Below is a demonstration of the application in action. 
+Below is the application in action. You can see the real-time weather updates and the dynamic background mapping based on live API data.
 
-<video src="video/weather app.mp4" width="100%" controls></video>
 
-*If the video doesn't load, you can find the raw file in the `/video` folder of this repository.*
-
+| ![Weather Dashboard](/image/new-york.png)
 ---
 
 ## 🛠️ Tech Stack
