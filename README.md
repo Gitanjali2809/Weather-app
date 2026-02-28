@@ -1,6 +1,6 @@
 
 
-# 🌦️ React Weather Dashboard
+#  React Weather Dashboard
 
 A modern, real-time weather application built with **React.js** and **Vite**. This project fetches live data from the **OpenWeatherMap API** to provide current weather conditions, humidity, and wind speeds for any city worldwide.
 
@@ -15,7 +15,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Frontend:** React.js (Functional Components & Hooks)
 * **API:** OpenWeatherMap (REST API)
@@ -24,7 +24,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Live Data Fetching:** Uses `async/await` and the Fetch API to retrieve real-time weather stats.
 * **Dynamic UI:** Automatically updates weather icons (Clear, Clouds, Rain, etc.) based on the API response.
@@ -42,7 +42,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 🧩 How to Run Locally
+##  How to Run Locally
 
 1. **Clone the repository**
 ```bash
