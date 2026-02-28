@@ -10,7 +10,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 * Live weather dashboard showing real-time data and dynamic condition icons.
 
-<img src="src/assets/new-york.png" width="300">
+<img src="src/assets/new-york.png" width="500">
 
 
 ---
