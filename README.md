@@ -10,7 +10,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 Below is a demonstration of the application in action. 
 
-<video src="video/weather app.mp4" width="100%" controls></video>
+<video src="../video/weather app.mp4" width="100%" controls></video>
 
 *If the video doesn't load, you can find the raw file in the `/video` folder of this repository.*
 
