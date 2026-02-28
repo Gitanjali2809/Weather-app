@@ -6,7 +6,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 📸 Project Screenshot
+## Project Screenshot
 
 * Live weather dashboard showing real-time data and dynamic condition icons.
 
