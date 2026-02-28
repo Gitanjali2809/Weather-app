@@ -33,7 +33,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 ---
 
-## 📚 What I Learned
+##  What I Learned
 
 * **Live Data Fetching:** Uses `async/await` and the Fetch API to retrieve real-time weather stats.
 * **Error Handling:** Managing "City Not Found" scenarios and empty search states to improve UX.
