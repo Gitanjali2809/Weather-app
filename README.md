@@ -10,7 +10,7 @@ A modern, real-time weather application built with **React.js** and **Vite**. Th
 
 Below is the application in action. You can see the real-time weather updates and the dynamic background mapping based on live API data.
 
- ![Weather Dashboard](/image/new-york.png)
+ ![Weather Dashboard](src/assets/new-york.png)
 ---
 
 ## 🛠️ Tech Stack
